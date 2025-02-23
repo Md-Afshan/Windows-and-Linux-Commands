@@ -3,153 +3,157 @@
 ## 1.copy
 Copies one or more files to another location.
 
-![Screenshot 2025-02-21 190418](https://github.com/user-attachments/assets/22bd0f14-f351-4029-9436-2cf9553ab04b)
+![1](https://github.com/user-attachments/assets/339b2e2e-953f-4c14-9bc7-e8d47793a4ea)
 
 ## 2.del
 Deletes one or more files. For example, del file.txt deletes “file.txt” from the current directory.
 
-![Screenshot 2025-02-21 192139](https://github.com/user-attachments/assets/7b96fb06-5cf2-495b-8174-502431f651a0)
+![2](https://github.com/user-attachments/assets/558cc4a7-2e50-41e7-95a6-8f7c63d71095)
 
 ## 3.rename (or ren)
 Renames a file. For example, rename file.txt newfile.txt changes the file’s name to “newfile.txt”.
 
-![Screenshot 2025-02-21 192457](https://github.com/user-attachments/assets/aaa741eb-0efb-46b5-8b09-1521ff4aef1a)
+![3](https://github.com/user-attachments/assets/81c5e82e-1096-4c6d-9098-cfa460fadcd6)
 
 ## 4.xcopy
 Copies files and directories, including directory trees and system/hidden files, optionally using various parameters for more control.
 
-![Screenshot 2025-02-21 192744](https://github.com/user-attachments/assets/86bc6219-0c27-4aab-818a-bc59fe0654d7)
+![4](https://github.com/user-attachments/assets/11815a5d-c7de-436c-8179-d4f3866c926f)
 
 ## 5.attrib
 Changes attributes of a file or directory. You can also use this CMD command in Windows 11: attrib -h -s -r C:pathtofolder to show hidden files.
 
-![Screenshot 2025-02-21 192924](https://github.com/user-attachments/assets/1d26bb97-c97b-44bd-be04-b88fdf240e17)
+![5](https://github.com/user-attachments/assets/93a7cd8f-3715-4d09-bb8e-8d5a279fa7b8)
 
 ## 6.cipher
 Encrypts or decrypts files and folders.
 
-![Screenshot 2025-02-21 193003](https://github.com/user-attachments/assets/0ed8155f-0980-400f-acef-4ed7e594da24)
+![6](https://github.com/user-attachments/assets/f7c8aec6-993c-4823-8857-341b6672d08b)
+
 ## 7.cd
 Changes your current directory.
 
-![Screenshot 2025-02-21 193050](https://github.com/user-attachments/assets/1ab2cf26-e645-4105-aad3-fad3d9aa879e)
+![7](https://github.com/user-attachments/assets/95b43ab0-d21a-4317-a18c-f6c2d6784082)
 
 ## 8.cd /
 Navigates to the root directory.
 
-![Screenshot 2025-02-21 193103](https://github.com/user-attachments/assets/c78b6557-c8f8-4a73-a24c-efc4fb8e04bc)
+![8](https://github.com/user-attachments/assets/1f61ebae-d50a-4ca1-94cb-23209e1b0ae4)
 
 ## 9.dir
 Displays a list of files and subdirectories in a directory.
 
-![Screenshot 2025-02-21 193114](https://github.com/user-attachments/assets/b17e318f-8840-4ccc-abbb-d3c41e730797)
+![9](https://github.com/user-attachments/assets/afd27a5a-22ac-47fb-a601-cc0f6d6e351e)
 
 ## 10.mkdir (or md)
 Creates a new directory.
 
-![Screenshot 2025-02-21 193144](https://github.com/user-attachments/assets/66939ba3-4729-4b7c-8a6e-45c9e7214fe1)
+![10](https://github.com/user-attachments/assets/b10f04c8-106c-4d6c-b419-74d9e7c27188)
 
 ## 11.rmdir (or rd)
 Removes a directory.
 
-![Screenshot 2025-02-21 193206](https://github.com/user-attachments/assets/b5f59996-a3fa-4083-a6d6-a888cfb50b21)
+![11](https://github.com/user-attachments/assets/7833a3e5-97ec-477c-b994-0a8ba695df05)
 
 ## 12.tree
 Graphically displays the folder structure of a drive or path.
 
-![Screenshot 2025-02-21 193318](https://github.com/user-attachments/assets/4b796e09-d913-4d5e-a5db-ead20c28ec7f)
+![12](https://github.com/user-attachments/assets/e74dada2-6819-47f6-8af2-fc3dea9c0327)
+
 ## 13.ipconfig
 Displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Additional ipconfig commands are available here.
 
-![Screenshot 2025-02-21 193342](https://github.com/user-attachments/assets/e8741f91-3ce6-460e-a2a0-e8cacfa063cf)
+![13](https://github.com/user-attachments/assets/57622518-5659-4b24-9f36-ccc17f4a65e1)
 
 ## 14.ping
 Tests the ability to reach a specific network device.
 
-![Screenshot 2025-02-21 193411](https://github.com/user-attachments/assets/292f233b-2e0a-4a2b-9da1-21182b551192)
+![14](https://github.com/user-attachments/assets/aedc0e66-42de-45d2-8f6e-92a4635b7859)
 
 ## 15.tracert
 Traces the path that a packet takes to reach a network host, helping identify where problems are occurring in the network.
 
-![Screenshot 2025-02-21 193734](https://github.com/user-attachments/assets/abad21b6-dcec-4c93-bc27-f3de004506f3)
+![15](https://github.com/user-attachments/assets/54720990-9c70-4a7b-bb61-2f6c0da82fd6)
 
 ## 16.netstat
 Displays active connections, ports, Ethernet statistics, and the IP routing table.
 
-![Screenshot 2025-02-21 194018](https://github.com/user-attachments/assets/4e233be0-dc62-4cde-a88c-90a6c0c8d8a3)
+![16](https://github.com/user-attachments/assets/d952f70d-20c5-4c31-873c-cbff1d378b2f)
 
 ## 17.nslookup
 Queries the DNS to obtain domain name or IP address mapping.
 
-![Screenshot 2025-02-21 194145](https://github.com/user-attachments/assets/b6a31302-d55f-4602-99bc-971b0b7f87e5)
+![17](https://github.com/user-attachments/assets/4487d8ca-4c09-4c78-a740-b6d89e51b205)
 
 ## 18.netsh
 Allows configuration of almost any aspect of network settings.
 
-![Screenshot 2025-02-21 194847](https://github.com/user-attachments/assets/f8f8de46-503b-4fed-90d3-80f1f8f67ee0)
+![18](https://github.com/user-attachments/assets/91cda499-5238-48ea-9d12-c46a7f8090cb)
 
 ## 19.arp -a
 Displays current ARP entries by interrogating the current protocol data. It shows the IP address and matching MAC address.
 
-![Screenshot 2025-02-21 194847](https://github.com/user-attachments/assets/f6362f89-730e-45ff-8a52-74c12eefa7ef)
+![19](https://github.com/user-attachments/assets/b71e08be-568f-4477-b133-66c9ebd18544)
 
 ## 20.hostname
 Shows the computer’s network name, aiding in network identification and troubleshooting.
 
-![Screenshot 2025-02-21 194859](https://github.com/user-attachments/assets/d5cd8793-f6be-4464-923d-15d2819e9829)
+![20](https://github.com/user-attachments/assets/4ceb1989-89f5-400e-ac1d-a161f7e3da55)
 
 ## 21.pathping
 Combines the features of ping and tracert, providing more detailed information about network routes and latency.
 
-![Screenshot 2025-02-21 194930](https://github.com/user-attachments/assets/a1ae60c6-6aa1-4c85-aa0b-8f14cb862b41)
+![21](https://github.com/user-attachments/assets/f2f9bd4b-3f6e-4aa8-997d-9c38b9676187)
 
 ## 22.getmac
 Displays the MAC address of the network card.
 
-![Screenshot 2025-02-21 194957](https://github.com/user-attachments/assets/ce41fe4e-7ea2-487b-876d-d02cc526f410)
+![22](https://github.com/user-attachments/assets/293941f7-7b3e-4b7e-9e02-8c3f3acbf37c)
 
 ## 23.nbtstat
 Helps diagnose NetBIOS over TCP/IP connections and display protocol statistic
 
-![Screenshot 2025-02-21 195016](https://github.com/user-attachments/assets/8d70e21a-4750-41b7-afb0-b771a3654be5)
-
+![23](https://github.com/user-attachments/assets/58a94fe3-eeda-44fe-9f8c-6d942d4e81fc)
 ## 24.systeminfo
 Provides a detailed overview of your system, including OS configuration, hardware details, and network information.
 
-![Screenshot 2025-02-21 195132](https://github.com/user-attachments/assets/1449b265-9c7d-4b9a-96b2-934108128990)
+![24](https://github.com/user-attachments/assets/8e70687f-edfd-4c82-a57a-258d33ed5032)
 
 ## 25.winver
 Quickly checks the version of Windows you are running.
 
-![Screenshot 2025-02-21 195158](https://github.com/user-attachments/assets/b13fce3e-cf5d-4dc4-b04a-efd456201c35)
+![25](https://github.com/user-attachments/assets/ac8830fe-a834-41df-939d-373e5b8a74c0)
 
 ## 26.tasklist
 Lists all currently running processes along with their Process ID (PID).
 
-![Screenshot 2025-02-21 195221](https://github.com/user-attachments/assets/66af4800-c140-494e-bacd-972c098659bf)
+![26](https://github.com/user-attachments/assets/b993d400-5332-44e8-9ebf-9663295baebc)
+
 
 ## 27.wmic
 Displays Windows Management Instrumentation (WMI) information, allowing more advanced system management through various subclasses (e.g., wmic product get name, wmic cpu get name).
 
-![Screenshot 2025-02-21 195243](https://github.com/user-attachments/assets/de536289-2d67-4294-9d70-f0dc71e9f132)
+![27](https://github.com/user-attachments/assets/7f3de5cd-dbec-45e7-9a4b-1f2595e29ad5)
 
 ## 28.diskpart
 A tool for managing disk partitions.
 
+![28](https://github.com/user-attachments/assets/b2b6c0f2-1c08-48e1-9ebc-084c7ecf3cce)
+
 ## 29.chkdsk
 Checks the disk for errors and repairs the file system.
 
-![Screenshot 2025-02-21 195337](https://github.com/user-attachments/assets/73d78ce3-11f4-4881-998b-85fcd33935be)
+![29](https://github.com/user-attachments/assets/27c2ad56-bcc6-4e6d-9a74-d08ecd569208)
 
 ## 30.format
 Formats a disk with a specified file system.
 
-![image](https://github.com/user-attachments/assets/ccbaf835-4e46-49ed-8867-3379d7dcc778)
+![30](https://github.com/user-attachments/assets/e93f6b0f-2ac9-45c1-b498-06ca8e47d18c)
 
 ## 31.clean
 Removes all partitions from the selected disk.
 
-![image](https://github.com/user-attachments/assets/97399651-a2fa-49e5-9e6c-a05e44dce209)
+![31](https://github.com/user-attachments/assets/6734a4bd-f9e1-44f2-af03-7744f50ed901)
 
 # Linux Commands
 ## 1.ls
